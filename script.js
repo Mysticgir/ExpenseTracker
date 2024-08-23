@@ -1,7 +1,6 @@
 
 const form = document.getElementById("add-expense-form");
 const list = document.getElementById("expense-list");
-const filters = document.getElementById("filters");
 const totalExpensesElement = document.getElementById("total-expenses");
 
 
